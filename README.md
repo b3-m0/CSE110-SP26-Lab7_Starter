@@ -12,4 +12,4 @@ Navigation mode analyzes a page right after it loads from scratch. It will provi
 4) Name three things we could do to improve the CSE 110 shop site based on the Lighthouse results.  
 **Answer:** Fix accessibility issues (increase the contrast of the yellow buttons, missing ARIA labels), improve SEO (making sure there are descriptive meta descriptions), and improve best practices (fix the console issues).  
 
-##Name: Bethany Miyamoto
+## Name: Bethany Miyamoto
